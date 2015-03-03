@@ -1,4 +1,6 @@
-//haha 
+/*
+
+*/
 function Lottery(node, cover, coverType, width, height, drawPercentCallback) {
     //canvas
     this.conNode = node; 
